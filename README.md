@@ -1,6 +1,6 @@
-# Sif Market
+# Sif Store
 
-Sif Market is an online shopping site
+Sif Store is an online shopping site
 
 ## Product catagories
 
@@ -10,8 +10,8 @@ Sif Market is an online shopping site
 
 ## Technologies
 
--HTML
+- HTML
 
 ## Project purpose
 
-created for the Web Programming Assignment
+Created for the Web Programming Assignment
